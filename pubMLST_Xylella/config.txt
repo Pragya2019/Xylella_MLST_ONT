@@ -1,0 +1,11 @@
+[loci]
+cysG /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/cysG.fa
+gltT /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/gltT.fa
+holC /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/holC.fa
+leuA /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/leuA.fa
+malF /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/malF.fa
+nuoL /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/nuoL.fa
+petC /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/petC.fa
+
+[profile]
+profile /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/profiles.tsv

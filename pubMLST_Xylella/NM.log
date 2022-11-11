@@ -1,0 +1,1235 @@
+11/03/2022 10:50:43 AM formKmerDB :cysG
+11/03/2022 10:50:43 AM Create Fasta Dict
+11/03/2022 10:50:43 AM /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/cysG.fa
+11/03/2022 10:50:43 AM formKmerDB :gltT
+11/03/2022 10:50:43 AM Create Fasta Dict
+11/03/2022 10:50:43 AM /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/gltT.fa
+11/03/2022 10:50:43 AM formKmerDB :holC
+11/03/2022 10:50:43 AM Create Fasta Dict
+11/03/2022 10:50:43 AM /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/holC.fa
+11/03/2022 10:50:43 AM formKmerDB :leuA
+11/03/2022 10:50:43 AM Create Fasta Dict
+11/03/2022 10:50:43 AM /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/leuA.fa
+11/03/2022 10:50:43 AM formKmerDB :malF
+11/03/2022 10:50:43 AM Create Fasta Dict
+11/03/2022 10:50:43 AM /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/malF.fa
+11/03/2022 10:50:43 AM formKmerDB :nuoL
+11/03/2022 10:50:43 AM Create Fasta Dict
+11/03/2022 10:50:43 AM /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/nuoL.fa
+11/03/2022 10:50:43 AM formKmerDB :petC
+11/03/2022 10:50:43 AM Create Fasta Dict
+11/03/2022 10:50:43 AM /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/petC.fa
+11/03/2022 10:50:43 AM Create Fasta Dict
+11/03/2022 10:50:43 AM /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/cysG.fa
+11/03/2022 10:50:43 AM Create Fasta Dict
+11/03/2022 10:50:43 AM /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/gltT.fa
+11/03/2022 10:50:43 AM Create Fasta Dict
+11/03/2022 10:50:43 AM /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/holC.fa
+11/03/2022 10:50:43 AM Create Fasta Dict
+11/03/2022 10:50:43 AM /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/leuA.fa
+11/03/2022 10:50:43 AM Create Fasta Dict
+11/03/2022 10:50:43 AM /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/malF.fa
+11/03/2022 10:50:43 AM Create Fasta Dict
+11/03/2022 10:50:43 AM /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/nuoL.fa
+11/03/2022 10:50:43 AM Create Fasta Dict
+11/03/2022 10:50:43 AM /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/petC.fa
+11/03/2022 10:50:43 AM Command :['/home/vic79e6/System_Software/miniconda3/envs/stringMLST/bin/stringMLST.py', '--buildDB', '-c', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/config.txt', '-k', '35', '-P', 'NM']
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM ERROR while loading ST
+11/03/2022 10:54:36 AM singleSampleTool : /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample1/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq
+11/03/2022 10:54:36 AM singleSampleTool : paired False
+11/03/2022 10:54:36 AM singleSampleTool : fastq start
+11/03/2022 10:54:36 AM singleFileTool :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample1/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq
+11/03/2022 10:54:36 AM singleFileTool : fastq
+11/03/2022 10:54:36 AM fileExplorer :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample1/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq
+11/03/2022 10:55:25 AM singleSampleTool : fastq done
+11/03/2022 10:55:25 AM singleSampleTool : weightedProfile start
+11/03/2022 10:55:25 AM weightedProf
+11/03/2022 10:55:25 AM singleSampleTool : weightedProfile finished
+11/03/2022 10:55:25 AM singleSampleTool : getMaxCount start
+11/03/2022 10:55:25 AM getMaxCount
+11/03/2022 10:55:25 AM Max Support :fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0 : {'petC': {'1': 5742480}, 'gltT': {'1': 5910079}, 'leuA': {'1': 1330232}, 'nuoL': {'1': 3365158}, 'cysG': {'1': 315592}, 'malF': {'4': 119043}, 'holC': {'1': 7226}}
+11/03/2022 10:55:25 AM Second Max Support :fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0 : {'petC': {}, 'gltT': {}, 'leuA': {}, 'nuoL': {}, 'cysG': {}, 'malF': {'1': 114601}, 'holC': {}}
+11/03/2022 10:55:25 AM singleSampleTool : getMaxCount end
+11/03/2022 10:55:25 AM singleSampleTool : findST start
+11/03/2022 10:55:25 AM findST
+11/03/2022 10:55:25 AM singleSampleTool : findST end
+11/03/2022 10:55:25 AM Command :['/home/vic79e6/System_Software/miniconda3/envs/stringMLST/bin/stringMLST.py', '--predict', '-1', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample1/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq', '-s', '--prefix', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/NM', '-o', './sampleST.txt']
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM ERROR while loading ST
+11/03/2022 11:00:33 AM singleSampleTool : /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample1/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq
+11/03/2022 11:00:33 AM singleSampleTool : paired False
+11/03/2022 11:00:33 AM singleSampleTool : fastq start
+11/03/2022 11:00:33 AM singleFileTool :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample1/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq
+11/03/2022 11:00:33 AM singleFileTool : fastq
+11/03/2022 11:00:33 AM fileExplorer :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample1/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq
+11/03/2022 11:01:21 AM singleSampleTool : fastq done
+11/03/2022 11:01:21 AM singleSampleTool : weightedProfile start
+11/03/2022 11:01:21 AM weightedProf
+11/03/2022 11:01:21 AM singleSampleTool : weightedProfile finished
+11/03/2022 11:01:21 AM singleSampleTool : getMaxCount start
+11/03/2022 11:01:21 AM getMaxCount
+11/03/2022 11:01:21 AM Max Support :fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0 : {'petC': {'1': 5742480}, 'gltT': {'1': 5910079}, 'leuA': {'1': 1330232}, 'nuoL': {'1': 3365158}, 'cysG': {'1': 315592}, 'malF': {'4': 119043}, 'holC': {'1': 7226}}
+11/03/2022 11:01:21 AM Second Max Support :fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0 : {'petC': {}, 'gltT': {}, 'leuA': {}, 'nuoL': {}, 'cysG': {}, 'malF': {'1': 114601}, 'holC': {}}
+11/03/2022 11:01:21 AM singleSampleTool : getMaxCount end
+11/03/2022 11:01:21 AM singleSampleTool : findST start
+11/03/2022 11:01:21 AM findST
+11/03/2022 11:01:21 AM singleSampleTool : findST end
+11/03/2022 11:01:21 AM Command :['/home/vic79e6/System_Software/miniconda3/envs/stringMLST/bin/stringMLST.py', '--predict', '-1', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample1/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq', '-s', '--prefix', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/NM', '-o', './Sample1.txt']
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM ERROR while loading ST
+11/03/2022 11:01:21 AM singleSampleTool : /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample3/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:01:21 AM singleSampleTool : paired False
+11/03/2022 11:01:21 AM singleSampleTool : fastq start
+11/03/2022 11:01:21 AM singleFileTool :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample3/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:01:21 AM singleFileTool : fastq
+11/03/2022 11:01:21 AM fileExplorer :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample3/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:01:27 AM singleSampleTool : fastq done
+11/03/2022 11:01:27 AM singleSampleTool : weightedProfile start
+11/03/2022 11:01:27 AM weightedProf
+11/03/2022 11:01:27 AM singleSampleTool : weightedProfile finished
+11/03/2022 11:01:27 AM singleSampleTool : getMaxCount start
+11/03/2022 11:01:27 AM getMaxCount
+11/03/2022 11:01:27 AM Max Support :fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0 : {'petC': {'3': 167175}, 'holC': {'9': 139340}, 'leuA': {'3': 661186}, 'cysG': {'18': 161284}, 'malF': {'5': 177093}, 'gltT': {'3': 187923}, 'nuoL': {'3': 165470}}
+11/03/2022 11:01:27 AM Second Max Support :fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0 : {'petC': {'1': 101250}, 'holC': {'1': 89089}, 'leuA': {}, 'cysG': {'8': 156597}, 'malF': {'3': 167777}, 'gltT': {'2': 118597}, 'nuoL': {'19': 130600}}
+11/03/2022 11:01:27 AM singleSampleTool : getMaxCount end
+11/03/2022 11:01:27 AM singleSampleTool : findST start
+11/03/2022 11:01:27 AM findST
+11/03/2022 11:01:27 AM singleSampleTool : findST end
+11/03/2022 11:01:27 AM Command :['/home/vic79e6/System_Software/miniconda3/envs/stringMLST/bin/stringMLST.py', '--predict', '-1', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample3/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq', '-s', '--prefix', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/NM', '-o', './Sample3.txt']
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM ERROR while loading ST
+11/03/2022 11:01:28 AM singleSampleTool : /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample4/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:01:28 AM singleSampleTool : paired False
+11/03/2022 11:01:28 AM singleSampleTool : fastq start
+11/03/2022 11:01:28 AM singleFileTool :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample4/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:01:28 AM singleFileTool : fastq
+11/03/2022 11:01:28 AM fileExplorer :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample4/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:01:30 AM singleSampleTool : fastq done
+11/03/2022 11:01:30 AM singleSampleTool : weightedProfile start
+11/03/2022 11:01:30 AM weightedProf
+11/03/2022 11:01:30 AM singleSampleTool : weightedProfile finished
+11/03/2022 11:01:30 AM singleSampleTool : getMaxCount start
+11/03/2022 11:01:30 AM getMaxCount
+11/03/2022 11:01:30 AM Max Support :fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0 : {'nuoL': {'1': 51816}, 'cysG': {'1': 31643}, 'leuA': {'1': 149644}, 'gltT': {'1': 66874}, 'petC': {'1': 72118}, 'malF': {'1': 36817}, 'holC': {'1': 45636}}
+11/03/2022 11:01:30 AM Second Max Support :fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0 : {'nuoL': {}, 'cysG': {}, 'leuA': {}, 'gltT': {}, 'petC': {}, 'malF': {}, 'holC': {}}
+11/03/2022 11:01:30 AM singleSampleTool : getMaxCount end
+11/03/2022 11:01:30 AM singleSampleTool : findST start
+11/03/2022 11:01:30 AM findST
+11/03/2022 11:01:30 AM singleSampleTool : findST end
+11/03/2022 11:01:30 AM Command :['/home/vic79e6/System_Software/miniconda3/envs/stringMLST/bin/stringMLST.py', '--predict', '-1', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample4/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq', '-s', '--prefix', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/NM', '-o', './Sample4.txt']
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM ERROR while loading ST
+11/03/2022 11:01:30 AM singleSampleTool : /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample5/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:01:30 AM singleSampleTool : paired False
+11/03/2022 11:01:30 AM singleSampleTool : fastq start
+11/03/2022 11:01:30 AM singleFileTool :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample5/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:01:30 AM singleFileTool : fastq
+11/03/2022 11:01:30 AM fileExplorer :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample5/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:01:31 AM singleSampleTool : fastq done
+11/03/2022 11:01:31 AM singleSampleTool : weightedProfile start
+11/03/2022 11:01:31 AM weightedProf
+11/03/2022 11:01:31 AM singleSampleTool : weightedProfile finished
+11/03/2022 11:01:31 AM singleSampleTool : getMaxCount start
+11/03/2022 11:01:31 AM getMaxCount
+11/03/2022 11:01:31 AM Max Support :fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0 : {'leuA': {'1': 99838}, 'cysG': {'1': 94811}, 'gltT': {'1': 38847}, 'nuoL': {'1': 15790}, 'petC': {'1': 18041}, 'malF': {'10': '2359*'}, 'holC': {'1': 1317}}
+11/03/2022 11:01:31 AM Second Max Support :fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0 : {'leuA': {}, 'cysG': {}, 'gltT': {}, 'nuoL': {}, 'petC': {}, 'malF': {'9': 2322}, 'holC': {}}
+11/03/2022 11:01:31 AM singleSampleTool : getMaxCount end
+11/03/2022 11:01:31 AM singleSampleTool : findST start
+11/03/2022 11:01:31 AM findST
+11/03/2022 11:01:31 AM singleSampleTool : findST end
+11/03/2022 11:01:31 AM Command :['/home/vic79e6/System_Software/miniconda3/envs/stringMLST/bin/stringMLST.py', '--predict', '-1', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample5/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq', '-s', '--prefix', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/NM', '-o', './Sample5.txt']
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM ERROR while loading ST
+11/03/2022 11:03:09 AM singleSampleTool : /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample2/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq
+11/03/2022 11:03:09 AM singleSampleTool : paired False
+11/03/2022 11:03:09 AM singleSampleTool : fastq start
+11/03/2022 11:03:09 AM singleFileTool :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample2/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq
+11/03/2022 11:03:09 AM singleFileTool : fastq
+11/03/2022 11:03:09 AM fileExplorer :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample2/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq
+11/03/2022 11:03:34 AM singleSampleTool : fastq done
+11/03/2022 11:03:34 AM singleSampleTool : weightedProfile start
+11/03/2022 11:03:34 AM weightedProf
+11/03/2022 11:03:34 AM singleSampleTool : weightedProfile finished
+11/03/2022 11:03:34 AM singleSampleTool : getMaxCount start
+11/03/2022 11:03:34 AM getMaxCount
+11/03/2022 11:03:34 AM Max Support :fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0 : {'petC': {'1': 5339111}, 'holC': {'1': 2635813}, 'nuoL': {'1': 31362}, 'gltT': {'1': 40648}, 'leuA': {'1': 16770}, 'cysG': {'1': 4431}, 'malF': {'4': '892*'}}
+11/03/2022 11:03:34 AM Second Max Support :fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0 : {'petC': {}, 'holC': {}, 'nuoL': {}, 'gltT': {}, 'leuA': {}, 'cysG': {'14': 3763}, 'malF': {'1': 854}}
+11/03/2022 11:03:34 AM singleSampleTool : getMaxCount end
+11/03/2022 11:03:34 AM singleSampleTool : findST start
+11/03/2022 11:03:34 AM findST
+11/03/2022 11:03:34 AM singleSampleTool : findST end
+11/03/2022 11:03:34 AM Command :['/home/vic79e6/System_Software/miniconda3/envs/stringMLST/bin/stringMLST.py', '--predict', '-1', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample2/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq', '-s', '--prefix', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/NM', '-o', './Sample2.txt']
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM ERROR while loading ST
+11/03/2022 11:04:26 AM singleSampleTool : /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample1/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq
+11/03/2022 11:04:26 AM singleSampleTool : paired False
+11/03/2022 11:04:26 AM singleSampleTool : fastq start
+11/03/2022 11:04:26 AM singleFileTool :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample1/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq
+11/03/2022 11:04:26 AM singleFileTool : fastq
+11/03/2022 11:04:26 AM fileExplorer :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample1/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq
+11/03/2022 11:05:15 AM singleSampleTool : fastq done
+11/03/2022 11:05:15 AM singleSampleTool : weightedProfile start
+11/03/2022 11:05:15 AM weightedProf
+11/03/2022 11:05:15 AM singleSampleTool : weightedProfile finished
+11/03/2022 11:05:15 AM singleSampleTool : getMaxCount start
+11/03/2022 11:05:15 AM getMaxCount
+11/03/2022 11:05:15 AM Max Support :fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0 : {'petC': {'1': 5742480}, 'gltT': {'1': 5910079}, 'leuA': {'1': 1330232}, 'nuoL': {'1': 3365158}, 'cysG': {'1': 315592}, 'malF': {'4': 119043}, 'holC': {'1': 7226}}
+11/03/2022 11:05:15 AM Second Max Support :fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0 : {'petC': {}, 'gltT': {}, 'leuA': {}, 'nuoL': {}, 'cysG': {}, 'malF': {'1': 114601}, 'holC': {}}
+11/03/2022 11:05:15 AM singleSampleTool : getMaxCount end
+11/03/2022 11:05:15 AM singleSampleTool : findST start
+11/03/2022 11:05:15 AM findST
+11/03/2022 11:05:15 AM singleSampleTool : findST end
+11/03/2022 11:05:15 AM Command :['/home/vic79e6/System_Software/miniconda3/envs/stringMLST/bin/stringMLST.py', '--predict', '-1', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample1/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq', '-s', '--prefix', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/NM', '-o', './Sample1_stringMLST.txt']
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM ERROR while loading ST
+11/03/2022 11:05:15 AM singleSampleTool : /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample2/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq
+11/03/2022 11:05:15 AM singleSampleTool : paired False
+11/03/2022 11:05:15 AM singleSampleTool : fastq start
+11/03/2022 11:05:15 AM singleFileTool :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample2/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq
+11/03/2022 11:05:15 AM singleFileTool : fastq
+11/03/2022 11:05:15 AM fileExplorer :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample2/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq
+11/03/2022 11:05:39 AM singleSampleTool : fastq done
+11/03/2022 11:05:39 AM singleSampleTool : weightedProfile start
+11/03/2022 11:05:39 AM weightedProf
+11/03/2022 11:05:39 AM singleSampleTool : weightedProfile finished
+11/03/2022 11:05:39 AM singleSampleTool : getMaxCount start
+11/03/2022 11:05:39 AM getMaxCount
+11/03/2022 11:05:39 AM Max Support :fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0 : {'petC': {'1': 5339111}, 'holC': {'1': 2635813}, 'nuoL': {'1': 31362}, 'gltT': {'1': 40648}, 'leuA': {'1': 16770}, 'cysG': {'1': 4431}, 'malF': {'4': '892*'}}
+11/03/2022 11:05:39 AM Second Max Support :fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0 : {'petC': {}, 'holC': {}, 'nuoL': {}, 'gltT': {}, 'leuA': {}, 'cysG': {'14': 3763}, 'malF': {'1': 854}}
+11/03/2022 11:05:39 AM singleSampleTool : getMaxCount end
+11/03/2022 11:05:39 AM singleSampleTool : findST start
+11/03/2022 11:05:39 AM findST
+11/03/2022 11:05:39 AM singleSampleTool : findST end
+11/03/2022 11:05:39 AM Command :['/home/vic79e6/System_Software/miniconda3/envs/stringMLST/bin/stringMLST.py', '--predict', '-1', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample2/fastq_runid_07d835a2e6e2ca79d4b6e4fc15e0cc07ec7735e9_0.fastq', '-s', '--prefix', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/NM', '-o', './Sample2_stringMLST.txt']
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM ERROR while loading ST
+11/03/2022 11:05:39 AM singleSampleTool : /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample3/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:05:39 AM singleSampleTool : paired False
+11/03/2022 11:05:39 AM singleSampleTool : fastq start
+11/03/2022 11:05:39 AM singleFileTool :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample3/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:05:39 AM singleFileTool : fastq
+11/03/2022 11:05:39 AM fileExplorer :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample3/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:05:46 AM singleSampleTool : fastq done
+11/03/2022 11:05:46 AM singleSampleTool : weightedProfile start
+11/03/2022 11:05:46 AM weightedProf
+11/03/2022 11:05:46 AM singleSampleTool : weightedProfile finished
+11/03/2022 11:05:46 AM singleSampleTool : getMaxCount start
+11/03/2022 11:05:46 AM getMaxCount
+11/03/2022 11:05:46 AM Max Support :fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0 : {'petC': {'3': 167175}, 'holC': {'9': 139340}, 'leuA': {'3': 661186}, 'cysG': {'18': 161284}, 'malF': {'5': 177093}, 'gltT': {'3': 187923}, 'nuoL': {'3': 165470}}
+11/03/2022 11:05:46 AM Second Max Support :fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0 : {'petC': {'1': 101250}, 'holC': {'1': 89089}, 'leuA': {}, 'cysG': {'8': 156597}, 'malF': {'3': 167777}, 'gltT': {'2': 118597}, 'nuoL': {'19': 130600}}
+11/03/2022 11:05:46 AM singleSampleTool : getMaxCount end
+11/03/2022 11:05:46 AM singleSampleTool : findST start
+11/03/2022 11:05:46 AM findST
+11/03/2022 11:05:46 AM singleSampleTool : findST end
+11/03/2022 11:05:46 AM Command :['/home/vic79e6/System_Software/miniconda3/envs/stringMLST/bin/stringMLST.py', '--predict', '-1', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample3/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq', '-s', '--prefix', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/NM', '-o', './Sample3_stringMLST.txt']
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM ERROR while loading ST
+11/03/2022 11:05:46 AM singleSampleTool : /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample4/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:05:46 AM singleSampleTool : paired False
+11/03/2022 11:05:46 AM singleSampleTool : fastq start
+11/03/2022 11:05:46 AM singleFileTool :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample4/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:05:46 AM singleFileTool : fastq
+11/03/2022 11:05:46 AM fileExplorer :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample4/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:05:48 AM singleSampleTool : fastq done
+11/03/2022 11:05:48 AM singleSampleTool : weightedProfile start
+11/03/2022 11:05:48 AM weightedProf
+11/03/2022 11:05:48 AM singleSampleTool : weightedProfile finished
+11/03/2022 11:05:48 AM singleSampleTool : getMaxCount start
+11/03/2022 11:05:48 AM getMaxCount
+11/03/2022 11:05:48 AM Max Support :fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0 : {'nuoL': {'1': 51816}, 'cysG': {'1': 31643}, 'leuA': {'1': 149644}, 'gltT': {'1': 66874}, 'petC': {'1': 72118}, 'malF': {'1': 36817}, 'holC': {'1': 45636}}
+11/03/2022 11:05:48 AM Second Max Support :fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0 : {'nuoL': {}, 'cysG': {}, 'leuA': {}, 'gltT': {}, 'petC': {}, 'malF': {}, 'holC': {}}
+11/03/2022 11:05:48 AM singleSampleTool : getMaxCount end
+11/03/2022 11:05:48 AM singleSampleTool : findST start
+11/03/2022 11:05:48 AM findST
+11/03/2022 11:05:48 AM singleSampleTool : findST end
+11/03/2022 11:05:48 AM Command :['/home/vic79e6/System_Software/miniconda3/envs/stringMLST/bin/stringMLST.py', '--predict', '-1', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample4/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq', '-s', '--prefix', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/NM', '-o', './Sample4_stringMLST.txt']
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM ERROR while loading ST
+11/03/2022 11:05:48 AM singleSampleTool : /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample5/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:05:48 AM singleSampleTool : paired False
+11/03/2022 11:05:48 AM singleSampleTool : fastq start
+11/03/2022 11:05:48 AM singleFileTool :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample5/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:05:48 AM singleFileTool : fastq
+11/03/2022 11:05:48 AM fileExplorer :/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample5/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq
+11/03/2022 11:05:49 AM singleSampleTool : fastq done
+11/03/2022 11:05:49 AM singleSampleTool : weightedProfile start
+11/03/2022 11:05:49 AM weightedProf
+11/03/2022 11:05:49 AM singleSampleTool : weightedProfile finished
+11/03/2022 11:05:49 AM singleSampleTool : getMaxCount start
+11/03/2022 11:05:49 AM getMaxCount
+11/03/2022 11:05:49 AM Max Support :fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0 : {'leuA': {'1': 99838}, 'cysG': {'1': 94811}, 'gltT': {'1': 38847}, 'nuoL': {'1': 15790}, 'petC': {'1': 18041}, 'malF': {'10': '2359*'}, 'holC': {'1': 1317}}
+11/03/2022 11:05:49 AM Second Max Support :fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0 : {'leuA': {}, 'cysG': {}, 'gltT': {}, 'nuoL': {}, 'petC': {}, 'malF': {'9': 2322}, 'holC': {}}
+11/03/2022 11:05:49 AM singleSampleTool : getMaxCount end
+11/03/2022 11:05:49 AM singleSampleTool : findST start
+11/03/2022 11:05:49 AM findST
+11/03/2022 11:05:49 AM singleSampleTool : findST end
+11/03/2022 11:05:49 AM Command :['/home/vic79e6/System_Software/miniconda3/envs/stringMLST/bin/stringMLST.py', '--predict', '-1', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/Sample5/fastq_runid_91c5d84c19612a6a7f65e0f2f9e3f5be8245f355_0.fastq', '-s', '--prefix', '/group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/NM', '-o', './Sample5_stringMLST.txt']
