@@ -52,7 +52,7 @@ It containesthe names of all MLST gene name list
 
 ## create sample.list
 It contains all samples to be tested with the fastq file for each sample. 
-'sampl.list'
+'sample.list'
 
 ## step by step, 
 ## step_1 Build stringMLST database
