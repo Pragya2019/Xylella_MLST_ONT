@@ -5,8 +5,8 @@
 A quick tutorial for *Xylella* MLST identification with three methods are summarised here:
 - A. **K-mer based stringMLST**
 - B. **Blastn to know the most adundant alleles of MLST genes**
-- C. Making consensus for each gene with NGSpeciesID and using mlst to determine Sequence typing **
-Use NGSpeciesID when sequencing error rates are less than 1% if using kit 14 chemistry for sequening and high accuracy model for basecalling and demultiplexing, otherwise stringMLST and blastn will provide results.Given the ~5% sequencing error with old chemisytry and we were hoping to differentiate alleles, using all consensus sequences could produce more noises, leading to inconsistent identification of alleles.  
+- C. NGSpeciesID is used for making consensus for each gene, cat all genes to make a one fasta file with seven genes and this fasta file is used as input for mlst to determine Sequence typing **
+Use NGSpeciesID when sequencing error rates are less than 1% if using kit 14 chemistry for sequening and high accuracy model for basecalling and demultiplexing, otherwise stringMLST and blastn will provide results. Given the ~5% sequencing error with old chemistry and we were hoping to differentiate alleles, using all consensus sequences could produce more noises, leading to inconsistent identification of alleles.  
 
 ## Before doing analysis make sure the base calling must be done using high-accuracy model. 
 Nanopore community has software that are frequently upgraded so use the most recent version
@@ -48,10 +48,11 @@ git clone https://github.com/Pragya2019/Xylella_MLST_ONT
 The input Unziped, basecalled, demultiplexed raw read files from Nanopore sequencing run in `fastq` format are required as input. Sample folders contained `fastq` files and all samples should be placed in a single directory as an input. Please see the example input directory in `Sample1/fastq.fastq`
 ## create allele.list
 It containesthe names of all MLST gene name list
+'allele.list'
 
 ## create sample.list
 It contains all samples to be tested with the fastq file for each sample. 
-
+'sampl.list'
 
 ## step by step, 
 ## step_1 Build stringMLST database
@@ -107,4 +108,7 @@ First cat all fasta files for seven genes created in NGSpeciesID and use input f
 ```
  cat ./*_NGSpeciesID/consensus_reference_*.fasta > all_mlst_alleles.fasta; mlst all_mlst_alleles.fasta > ./$i\_MLST.txt
  ```
- ## the script is provided script.sh which is looped
+ ## To inspect all results
+ ```
+less -S ./sample.list | while read i; do echo $i; cat ./$i/*_stringMLST.txt; head -n 1 ./$i/*_blast.txt; cat ./$i/$i\_MLST.txt
+```
