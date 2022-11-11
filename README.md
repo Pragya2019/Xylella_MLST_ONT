@@ -3,9 +3,9 @@
 **Last update on 11 November 2022**
 
 A quick tutorial for *Xylella* MLST identification with three methods are summarised here:
-- A. ***K-mer based stringMLST**
+- A. **K-mer based stringMLST**
 - B. **Blastn to know the most adundant alleles of MLST genes**
-- C. ** Making consensus for each gene with NGSpeciesID and using mlst to determine Sequence typing **
+- C. Making consensus for each gene with NGSpeciesID and using mlst to determine Sequence typing **
 Use NGSpeciesID when sequencing error rates are less than 1% if using kit 14 chemistry for sequening and high accuracy model for basecalling and demultiplexing, otherwise stringMLST and blastn will provide results.Given the ~5% sequencing error with old chemisytry and we were hoping to differentiate alleles, using all consensus sequences could produce more noises, leading to inconsistent identification of alleles.  
 
 ## Before doing analysis make sure the base calling must be done using high-accuracy model. 
