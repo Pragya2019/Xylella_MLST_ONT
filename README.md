@@ -5,8 +5,8 @@
 A quick tutorial for *Xylella* MLST identification with three methods are summarised here:
 - A. **K-mer based stringMLST**
 - B. **Blastn to know the most adundant alleles of MLST genes**
-- C. NGSpeciesID is used for making consensus for each gene, cat all genes to make a one fasta file with seven genes and this fasta file is used as input for mlst to determine Sequence typing **
-Use NGSpeciesID when sequencing error rates are less than 1% if using kit 14 chemistry for sequening and high accuracy model for basecalling and demultiplexing, otherwise stringMLST and blastn will provide results. Given the ~5% sequencing error with old chemistry and we were hoping to differentiate alleles, using all consensus sequences could produce more noises, leading to inconsistent identification of alleles.  
+- C. NGSpeciesID is used for making consensus for each gene, cat all genes to make a one fasta file with seven genes and this fasta file is used as input for mlst to determine Sequence typing
+Use NGSpeciesID when sequencing error rates are less than 1% if using kit 14 chemistry for sequening and high accuracy model for basecalling and demultiplexing, otherwise stringMLST and blastn will provide results. 
 
 ## Before doing analysis make sure the base calling must be done using high-accuracy model. 
 Nanopore community has software that are frequently upgraded so use the most recent version
