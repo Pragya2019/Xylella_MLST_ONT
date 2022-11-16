@@ -93,7 +93,7 @@ To know the most abundant allele
 ```
 blastn -db /Path_to_/MLSTdatabase -num_threads 8 -task megablast -outfmt 6 -max_hsps 1 -max_target_seqs 1 -query /path_to_fasta | grep "malF_" | awk '{print $2}' | sort | uniq -c | sort -nk1 -r $> malF_blast.txt
 ```
-This is repeated for all genes and txt files for genes are visualized on the screen to know the most abundant alleles. Correct alleles should be adundance.The sequence type is known from the Xylella fastidiosa MLST profile from PubMLST. Rest of the steps are needed when there is a need to make consensus for each gene for automation to know sequence types.
+This is repeated for all genes and txt files for genes are visualized on the screen to know the most abundant alleles. Correct alleles should be in adundance.The sequence type is known from the Xylella fastidiosa MLST profile from PubMLST. Rest of the steps are needed when there is a need to make consensus for each gene for automation to know sequence types.
 
 ## Step_5 Subset reads
 ```
@@ -111,7 +111,7 @@ First cat all fasta files for seven genes created in NGSpeciesID and use this as
  cat ./*_NGSpeciesID/consensus_reference_*.fasta > all_mlst_alleles.fasta; mlst all_mlst_alleles.fasta > ./$i\_MLST.txt
  ```
  ## To inspect all results
- the results from all analysis can be visualized on the screen 
+ the results from all analysis can be visualized on the screen, for this cat the files from each analyis
  ```
 less -S ./sample.list | while read i; do echo $i; cat ./$i/*_stringMLST.txt; head -n 1 ./$i/*_blast.txt; cat ./$i/$i\_MLST.txt
 ```
