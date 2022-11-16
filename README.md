@@ -5,7 +5,7 @@
 A quick tutorial for *Xylella* MLST identification with three methods are summarised here:
 - A. **K-mer based stringMLST**
 - B. **Blastn to know the most adundant alleles of MLST genes**
-- C. NGSpeciesID is used for making consensus for each gene, cat all genes to make a one fasta file with seven genes and this fasta file is used as input for mlst to determine Sequence typing
+- C. NGSpeciesID is used for making consensus for each gene, cat all genes to make a one fasta file with seven genes and this fasta file is used as an input for mlst to determine sequence typing
 Use NGSpeciesID when sequencing error rates are less than 1% if using kit 14 chemistry for sequening and high accuracy model for basecalling and demultiplexing, otherwise stringMLST and blastn will provide results. 
 
 ## Before doing analysis make sure the base calling must be done using high-accuracy model. 
@@ -93,7 +93,7 @@ To know the most abundant allele
 ```
 blastn -db /Path_to_/MLSTdatabase -num_threads 8 -task megablast -outfmt 6 -max_hsps 1 -max_target_seqs 1 -query /path_to_fasta | grep "malF_" | awk '{print $2}' | sort | uniq -c | sort -nk1 -r $> malF_blast.txt
 ```
-This an be reapeated for all genes and txt files for genes are visualized on the screen to kbow the most abundant alleles. Correct alleles should be adundance.The sequence type is known from the Xylella fastidiosa MLST profile from PubMLST. Rest of the steps are needed when there is need to make consensus for each gene and automation for knowing sequence types.
+This is repeated for all genes and txt files for genes are visualized on the screen to know the most abundant alleles. Correct alleles should be adundance.The sequence type is known from the Xylella fastidiosa MLST profile from PubMLST. Rest of the steps are needed when there is a need to make consensus for each gene for automation to know sequence types.
 
 ## Step_5 Subset reads
 ```
