@@ -1,4 +1,4 @@
-    ## Xylella_MLST_ONT
+## Xylella_MLST_ONT
 
 **Last update on 11 November 2022**
 
@@ -16,10 +16,10 @@ Basecalling and demultiplexing is done using guppy https://community.nanoporetec
 ## Requirement and Dependency
 This workflow has been tested to work on Linux environment with conda installed and it is dependent on the following tools:
 1. [stringMLST] (https://github.com/jordanlab/stringMLST)
-2. [BLAST+](https://www.ncbi.nlm.nih.gov/books/NBK279690/)
-3. [NGSpeciesID](https://github.com/ksahlin/NGSpeciesID) 
-4. [mslt](https://github.com/tseemann/mlst)
-5. [Seqkit](https://github.com/shenwei356/seqkit/)
+2. [BLAST+] (https://www.ncbi.nlm.nih.gov/books/NBK279690/)
+3. [NGSpeciesID] (https://github.com/ksahlin/NGSpeciesID) 
+4. [mslt] (https://github.com/tseemann/mlst)
+5. [Seqkit] (https://github.com/shenwei356/seqkit/)
 
 **Installation with conda**
 stringMLST and NGSpeicesID are avialable on Conda and the latest version of environments should be created for running stringMLST and NGSpeicesID 
