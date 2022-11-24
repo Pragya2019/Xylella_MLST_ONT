@@ -1,22 +1,25 @@
-g# Xylella_MLST_ONT
+    ## Xylella_MLST_ONT
 
 **Last update on 11 November 2022**
 
 A quick tutorial for *Xylella* MLST identification with three methods are summarised here:
 - A. **K-mer based stringMLST**
-- B. **Blastn to know the most adundant alleles of MLST genes**
-- C. NGSpeciesID is used for making consensus for each gene, cat all genes to make a one fasta file with seven genes and this fasta file is used as an input for mlst to determine sequence typing
-Use NGSpeciesID when sequencing error rates are less than 1% if using kit 14 chemistry for sequening and high accuracy model for basecalling and demultiplexing, otherwise stringMLST and blastn will provide results. 
+- B. **BLASTn to identify the most adundant alleles of MLST genes**
+- C. NGSpeciesID is used for making consensus sequences for each gene. Concatenate all sequences to make a one fasta file with seven genes and this fasta file is used as an input for mlst to determine sequence typing.
 
-## Before doing analysis make sure the base calling must be done using high-accuracy model. 
-Nanopore community has software that are frequently upgraded so use the most recent version
-The base calling and demultiplexing is done using guppy https://community.nanoporetech.com/downloads#gns[searchValue]=guppy
+Note:Only use NGSpeciesID if sequence data was generated using kit 12/14 chemistry and basecalled using the super high accuracy (SUP) model, otherwise stringMLST and blastn will provide inconsistent results. 
+
+## Before doing analysis make sure basecalling must be done using the super high accuracy (SUP) model. 
+Nanopore community has software that are frequently upgraded so use the most recent version.
+Basecalling and demultiplexing is done using guppy https://community.nanoporetech.com/downloads#gns[searchValue]=guppy
 
 ## Requirement and Dependency
 This workflow has been tested to work on Linux environment with conda installed and it is dependent on the following tools:
 1. [stringMLST] (https://github.com/jordanlab/stringMLST)
 2. [BLAST+](https://www.ncbi.nlm.nih.gov/books/NBK279690/)
-3. [NGSpeciesID](https://github.com/ksahlin/NGSpeciesID) and mslt (https://github.com/tseemann/mlst)
+3. [NGSpeciesID](https://github.com/ksahlin/NGSpeciesID) 
+4. [mslt](https://github.com/tseemann/mlst)
+5. [Seqkit](https://github.com/shenwei356/seqkit/)
 
 **Installation with conda**
 stringMLST and NGSpeicesID are avialable on Conda and the latest version of environments should be created for running stringMLST and NGSpeicesID 
@@ -45,16 +48,16 @@ git clone https://github.com/Pragya2019/Xylella_MLST_ONT
 
 
 ## create a directory with input files
-The input Unziped, basecalled, demultiplexed raw read files from Nanopore sequencing run in `fastq` format are required as input. Sample folders contained `fastq` files and all samples should be placed in a single directory as an input. Please see the example input directory in `Sample1/fastq.fastq`
+The input unziped, basecalled, demultiplexed raw read files from Nanopore sequencing run in `fastq` format are required as input. Sample folders contained `fastq` files and all samples should be placed in a single directory as an input. Please see the example input directory in `Sample1/fastq.fastq`
 ## create allele.list
-It containesthe names of all MLST gene name list
+It containes the names of all MLST gene name list
 'allele.list'
 
 ## create sample.list
 It contains all samples to be tested with the fastq file for each sample. 
 'sample.list'
 
-## step by step, 
+## Step by step
 ## step_1 Build stringMLST database
 
 to run it requires a database to be build using –buildDB
@@ -84,11 +87,11 @@ databse for each gene downloaded from PubMLST (https://pubmlst.org/bigsdbdb=pubm
 ```
 makeblastdb -in  /path_to_fasta_file  -dbtype nucl -title name_db -out name_db
 ```
-## for running Blast convert fastq files to fasta
+## convert fastq files to fasta for BLASTn
 ```
 seqtk seq -a fastq > fasta
 ```
-## Step_4 blastn
+## Step_4 BLASTn
 To know the most abundant allele
 ```
 blastn -db /Path_to_/MLSTdatabase -num_threads 8 -task megablast -outfmt 6 -max_hsps 1 -max_target_seqs 1 -query /path_to_fasta | grep "malF_" | awk '{print $2}' | sort | uniq -c | sort -nk1 -r $> malF_blast.txt
@@ -98,20 +101,22 @@ This is repeated for all genes and txt files for genes are visualized on the scr
 ## Step_5 Subset reads
 ```
 blastn -db /Path_to_/MLSTdatabase -num_threads 8 -task megablast -outfmt 6 -max_hsps 1 -max_target_seqs 1 -query /path_to_fasta | grep "malF_" | awk '{print $1}' | sort -u $> malF_blast_reads_ID.txt
-less -S ./sample.list | while read i; do echo $i; cd $i; cat ../allele.list | while read a; do echo $a; /group/pathogens/Bioinfo_Software/KMCP/seqkit grep ./fastq_*.fastq -f $a\_blast_reads_ID.txt -o $a\_blast_reads.fastq;done; cd ..;done
+less -S ./sample.list | while read sample; do echo $sample; cd $sample; cat ../allele.list | while read allele; do echo $allele; seqkit grep ./fastq_*.fastq -f $allele\_blast_reads_ID.txt -o $allele\_blast_reads.fastq; done; cd ..; done
 ```
 ## Step_6 NGSpeciesID
 This will make clusters of the best matched reads and instead of medaka we recommend using racon polishing
 ```
-NGSpeciesID --fastq ./$a\_blast_reads.fastq --ont --consensus --racon --outfolder ./$a\_NGSpeciesID
+less -S ./sample.list | while read sample; do echo $sample; cd $sample; cat ../allele.list | while read allele; do echo $allele; NGSpeciesID --fastq ./$allele\_blast_reads.fastq --ont --consensus --racon --outfolder ./$allele\_NGSpeciesID; done; cd ..; done
 ```
 ## Step_7 mlst
 First cat all fasta files for seven genes created in NGSpeciesID and use this as an input for MLST 
 ```
- cat ./*_NGSpeciesID/consensus_reference_*.fasta > all_mlst_alleles.fasta; mlst all_mlst_alleles.fasta > ./$i\_MLST.txt
- ```
- ## To inspect all results
- the results from all analysis can be visualized on the screen, for this cat the files from each analyis
- ```
-less -S ./sample.list | while read i; do echo $i; cat ./$i/*_stringMLST.txt; head -n 1 ./$i/*_blast.txt; cat ./$i/$i\_MLST.txt
+less -S ./sample.list | while read sample; do echo $sample; cd $sample; cat ./*_NGSpeciesID/consensus_reference_*.fasta > all_mlst_alleles.fasta; mlst all_mlst_alleles.fasta > ./$sample\_MLST.txt; cd ..;done
 ```
+## To inspect all results
+the results from all analysis can be visualized on the screen, for this cat the files from each analyis
+```
+less -S ./sample.list | while read sample; do echo $sample; cat ./$sample/*_stringMLST.txt; head -n 1 ./$sample/*_blast.txt; cat ./$sample/$sample\_MLST.txt
+```
+
+    
