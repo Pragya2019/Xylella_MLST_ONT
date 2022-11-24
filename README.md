@@ -7,7 +7,7 @@ A quick tutorial for *Xylella* MLST identification with three methods are summar
 - B. **BLASTn to identify the most adundant alleles of MLST genes**
 - C. NGSpeciesID is used for making consensus sequences for each gene. Concatenate all sequences to make a one fasta file with seven genes and this fasta file is used as an input for mlst to determine sequence typing.
 
-Note:Only use NGSpeciesID if sequence data was generated using kit 12/14 chemistry and basecalled using the super high accuracy (SUP) model, otherwise stringMLST and blastn will provide inconsistent results. 
+Note:Only use NGSpeciesID if sequence data was generated using kit 12/14 chemistry and basecalled using the super high accuracy (SUP) model, otherwise mslt will provide inconsistent results. 
 
 ## Before doing analysis make sure basecalling must be done using the super high accuracy (SUP) model. 
 Nanopore community has software that are frequently upgraded so use the most recent version.
@@ -89,7 +89,7 @@ makeblastdb -in  /path_to_fasta_file  -dbtype nucl -title name_db -out name_db
 ```
 ## convert fastq files to fasta for BLASTn
 ```
-seqtk seq -a fastq > fasta
+seqkit fq2fa reads.fq.gz -o reads.fa.gz
 ```
 ## Step_4 BLASTn
 To know the most abundant allele
