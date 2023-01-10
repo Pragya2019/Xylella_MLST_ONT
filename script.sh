@@ -5,6 +5,7 @@ less -S ./sample.list | while read i; do echo $i; cd $i; stringMLST.py --predict
 ##step_3, makeblastdb
 cd pubMLST_Xylella
 less -S ../allele.list | while read i; do echo $i; makeblastdb -in /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/$i.fa -dbtype nucl -title $i -out $i\_blast_db;done
+cd ..
 ##step_4, blast
 less -S ./sample.list | while read i; do echo $i; cd $i; cat ../allele.list | while read a; do echo $a; blastn -db /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/pubMLST_Xylella/$a\_blast_db -num_threads 8 -task megablast -outfmt 6 -max_hsps 1 -max_target_seqs 1 -query /group/pathogens/plant_pathology/personal/Tongda/MSPD/Pragya/ring_test/$i/*.fasta | grep $a\_ | awk '{print $2}' | sort | uniq -c | sort -nk1 -r > $a\_blast.txt;done; cd ..;done
 ##step_5, subset reads
